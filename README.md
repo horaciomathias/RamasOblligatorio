@@ -145,12 +145,12 @@ La calidad del producto entregado será verificada a través de 3 métricas dife
     * [QA Satisfaccion](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20de%20Calidad%20de%20Uso/QA%20Satisfaccion.pdf "QA Satisfacción")
 * **Metricas Externas**
     * [QA Fiabilidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Externas/QA%20Fiabilidad.pdf "QA Fiabilidad")
-    * [QA Funcionalidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Externas/QA%20Funcionalidad.pdf"QA Funcionalidad")
-    * [QA Portabilidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Externas/QA%20Portabilidad.pdf"QA Portabilidad")
-    * [QA Usabilidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Externas/QA%20Usabilidad.pdf"QA Usabilidad")
+    * [QA Funcionalidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Externas/QA%20Funcionalidad.pdf "QA Funcionalidad")
+    * [QA Portabilidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Externas/QA%20Portabilidad.pdf "QA Portabilidad")
+    * [QA Usabilidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Externas/QA%20Usabilidad.pdf "QA Usabilidad")
 * **Metricas Internas**
     * [matriz de seguimiento](https://github.com/horaciomathias/Testes/blob/main/Validacion%20y%20Verificacion/Verificacion/Matriz%20de%20Cumplimiento%20de%20Calidad.pdf "Matriz de seguimiento"): para confirmar que cada requerimiento funcional cumple con las restricciones de calidad exigidas y los estándares necesarios;
-    * [QA Fiabilidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Internas/QA%20Fiabilidad.pdf"QA Fiabilidad")
+    * [QA Fiabilidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Internas/QA%20Fiabilidad.pdf "QA Fiabilidad")
     * [QA Funcionalidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Internas/QA%20Funcionalidad.pdf "QA Funcionalidad")
     * [QA Usabilidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Internas/QA%20Usabilidad.pdf "QA Usabilidad")
 
