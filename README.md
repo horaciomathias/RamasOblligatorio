@@ -119,7 +119,7 @@ Los requerimientos funcionales identificados serán asociados a un código de ca
 Para mayor entendimiento de la relación entre requerimientos funcionales se incluye un modelo de Jerarquía Funcional
 ![Logo](https://github.com/horaciomathias/Testes/blob/main/Especificacion/Modelos/Jerarquia%20Funcional.png "Modelo de Jerarquía Funcional") 
 
-Requerimientos no funcionales clasificados según su tipo![Logo](https://github.com/horaciomathias/Testes/blob/main/Especificacion/Modelos/Jerarquia%20Funcional.png "Clasificación de Requerimientos No Funcionales")
+Requerimientos no funcionales clasificados según su tipo![Logo](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Especificacion/Modelos/Clasificacion%20de%20Requerimientos%20no%20Funcionales.png "Clasificación de Requerimientos No Funcionales")
 
 Todos los términos relacionados con el proyecto serán registrados en el [glosario](https://github.com/horaciomathias/Testes/blob/main/Glosario/Glosario.md "Glosario de Terminología asociada al proyecto")
 
@@ -139,7 +139,23 @@ Todos los requerimientos derivados del análisis serán documentados, validados 
 
 
 ## *Verificación*
-Será verificado el cumplimiento de los objetivos de calidad para cada requerimiento utilizando una [matriz de seguimiento](https://github.com/horaciomathias/Testes/blob/main/Validacion%20y%20Verificacion/Verificacion/Matriz%20de%20Cumplimiento%20de%20Calidad.pdf)
+La calidad del producto entregado será verificada a través de 3 métricas diferentes:
+* **Métricas de Calidad de Uso**
+    * [QA Efectividad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20de%20Calidad%20de%20Uso/QA%20Efectividad.pdf "QA Efectividad")
+    * [QA Satisfaccion](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20de%20Calidad%20de%20Uso/QA%20Satisfaccion.pdf "QA Satisfacción")
+* **Metricas Externas**
+    * [QA Fiabilidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Externas/QA%20Fiabilidad.pdf "QA Fiabilidad")
+    * [QA Funcionalidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Externas/QA%20Funcionalidad.pdf"QA Funcionalidad")
+    * [QA Portabilidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Externas/QA%20Portabilidad.pdf"QA Portabilidad")
+    * [QA Usabilidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Externas/QA%20Usabilidad.pdf"QA Usabilidad")
+* **Metricas Internas**
+    * [matriz de seguimiento](https://github.com/horaciomathias/Testes/blob/main/Validacion%20y%20Verificacion/Verificacion/Matriz%20de%20Cumplimiento%20de%20Calidad.pdf "Matriz de seguimiento"): para confirmar que cada requerimiento funcional cumple con las restricciones de calidad exigidas y los estándares necesarios;
+    * [QA Fiabilidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Internas/QA%20Fiabilidad.pdf"QA Fiabilidad")
+    * [QA Funcionalidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Internas/QA%20Funcionalidad.pdf "QA Funcionalidad")
+    * [QA Usabilidad](https://github.com/horaciomathias/RamasOblligatorio/blob/main/Validacion%20y%20Verificacion/Verificacion/QA/Metricas%20Internas/QA%20Usabilidad.pdf "QA Usabilidad")
+
+
+
 
 
 ---
