@@ -119,7 +119,7 @@ Los requerimientos funcionales identificados serán asociados a un código de ca
 Para mayor entendimiento de la relación entre requerimientos funcionales se incluye un modelo de Jerarquía Funcional
 ![Logo](https://github.com/horaciomathias/Testes/blob/main/Especificacion/Modelos/Jerarquia%20Funcional.png "Modelo de Jerarquía Funcional") 
 
-Los requerimientos no funcionales identificados serán clasificados según su tipo, véase [Clasificación de Requerimientos No Funcionales](https://github.com/horaciomathias/Testes/blob/main/Especificacion/Modelos/Clasificacion%20de%20Requerimientos%20no%20Funcionales.png "Clasificación de Requerimientos No Funcionales")
+Requerimientos no funcionales clasificados según su tipo![Logo](https://github.com/horaciomathias/Testes/blob/main/Especificacion/Modelos/Jerarquia%20Funcional.png "Clasificación de Requerimientos No Funcionales")
 
 Todos los términos relacionados con el proyecto serán registrados en el [glosario](https://github.com/horaciomathias/Testes/blob/main/Glosario/Glosario.md "Glosario de Terminología asociada al proyecto")
 
